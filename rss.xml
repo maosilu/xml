@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- rss输出模版，用PHP动态制造channel和item -->
+<rss version="2.0" xmlns:wfw="http://wellformedweb.org/CommentAPI/"></rss>
