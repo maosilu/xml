@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<bookstore>
+	<book category="COOKING">
+		<title lang="en">Everyday italian</title>
+		<author>Giada De Laurentiis</author>
+		<year>2005</year>
+		<price>30.00</price>
+	</book>
+	<book category="武侠">
+		<title lang="中文">侠客行</title>
+		<author>金庸</author>
+		<year>2005</year>
+		<price>29.99</price>
+	</book>
+	<book category="网页">
+		<title lang="中文">Jquery 7日通</title>
+		<author>小二虎</author>
+		<year>2003</year>
+		<price>49.99</price>
+	</book>
+	<book category="COOKING">
+		<title lang="en">Learning XML</title>
+		<author>Erik T. Ray</author>
+		<year>2003</year>
+		<price>39.95</price>
+		<edition>第三版</edition>
+	</book>
+	<shu category="COOKING">
+		<title lang="en">Learning XML</title>
+		<author>Erik T. Ray</author>
+		<year>2003</year>
+		<price>39.95</price>
+	</shu>
+</bookstore>
