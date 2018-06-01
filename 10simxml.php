@@ -4,7 +4,7 @@
 */
 // 从文件载入xml文档
 $simxml = simplexml_load_file('./10simxml.xml');
-// var_dump($simxml);
+print_r($simxml);
 // echo $simxml->book[2]->title;
 
 // 查看有几本书
